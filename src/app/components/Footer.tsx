@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 
 export default function Footer() {
@@ -39,7 +38,7 @@ export default function Footer() {
           <div className="flex items-center gap-3.5">
             <span className="text-lg flex-shrink-0">📞</span>
             <a
-              href="tel:12084553345"
+              href="tel:20845533451711"
               className="text-sm text-gray-400 hover:text-white transition-colors"
             >
               208-455-3345 x1711
@@ -48,7 +47,7 @@ export default function Footer() {
         </div>
 
         {/* Brand / Copyright */}
-        <div className="border-t border-gray-700 pt-5 flex items-center justify-between gap-4">
+        <div className="border-t border-gray-700 pt-5">
           <div>
             <p className="text-white font-bold text-base mb-1.5">
               Caldwell School District 132
@@ -67,15 +66,14 @@ export default function Footer() {
               >
                 Terms of Use
               </Link>
+              <Link
+                href="/about"
+                className="text-xs text-gray-400 hover:text-white transition-colors underline"
+              >
+                About Us
+              </Link>
             </div>
           </div>
-          <Image
-            src="/Equalhousinglenderlogo.png"
-            alt="Equal Housing Lender"
-            width={80}
-            height={80}
-            className="object-contain flex-shrink-0"
-          />
         </div>
       </div>
     </footer>
