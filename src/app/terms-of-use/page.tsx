@@ -16,7 +16,7 @@ export default function TermsOfUse() {
           href="/"
           className="flex items-center gap-3 hover:opacity-80 transition-opacity"
         >
-          <div className="w-8 h-8 rounded-full bg-[#8b1a2e] flex items-center justify-center flex-shrink-0">
+          <div className="w-8 h-8 rounded-full bg-[#283796] flex items-center justify-center flex-shrink-0">
             <span className="text-white font-bold text-sm">C</span>
           </div>
           <span className="text-base font-semibold text-gray-900 tracking-tight">
@@ -139,7 +139,7 @@ export default function TermsOfUse() {
                 For help, reply <strong>HELP</strong> or email{" "}
                 <a
                   href="mailto:support@caldwellschools132.org"
-                  className="text-[#8b1a2e] underline"
+                  className="text-[#283796] underline"
                 >
                   support@caldwellschools132.org
                 </a>
@@ -205,14 +205,14 @@ export default function TermsOfUse() {
                 Email:{" "}
                 <a
                   href="mailto:support@caldwellschools132.org"
-                  className="text-[#8b1a2e] underline"
+                  className="text-[#283796] underline"
                 >
                   support@caldwellschools132.org
                 </a>
               </p>
               <p>
                 Phone:{" "}
-                <a href="tel:12084553345" className="text-[#8b1a2e] underline">
+                <a href="tel:12084553345" className="text-[#283796] underline">
                   208-455-3345 x1711
                 </a>
               </p>
@@ -223,7 +223,7 @@ export default function TermsOfUse() {
         <div className="mt-10">
           <Link
             href="/"
-            className="inline-flex items-center gap-2 text-sm text-[#8b1a2e] hover:underline font-medium"
+            className="inline-flex items-center gap-2 text-sm text-[#283796] hover:underline font-medium"
           >
             ← Back to Home
           </Link>
