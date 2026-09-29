@@ -67,8 +67,8 @@ export default function About() {
             <ul className="list-none space-y-2 mt-3">
               <li>
                 <strong>Email:</strong>{" "}
-                <a href="mailto:support@caldwellschools132.org" className="text-[#1a3a6b] underline">
-                  support@caldwellschools132.org
+                <a href="mailto:support@caldwellschoolsms.com" className="text-[#1a3a6b] underline">
+                  support@caldwellschoolsms.com
                 </a>
               </li>
               <li>

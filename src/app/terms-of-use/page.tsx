@@ -138,10 +138,10 @@ export default function TermsOfUse() {
               <li>
                 For help, reply <strong>HELP</strong> or email{" "}
                 <a
-                  href="mailto:support@caldwellschools132.org"
+                  href="mailto:support@caldwellschoolsms.com"
                   className="text-[#283796] underline"
                 >
-                  support@caldwellschools132.org
+                  support@caldwellschoolsms.com
                 </a>
                 .
               </li>
@@ -204,10 +204,10 @@ export default function TermsOfUse() {
               <p>
                 Email:{" "}
                 <a
-                  href="mailto:support@caldwellschools132.org"
+                  href="mailto:support@caldwellschoolsms.com"
                   className="text-[#283796] underline"
                 >
-                  support@caldwellschools132.org
+                  support@caldwellschoolsms.com
                 </a>
               </p>
               <p>

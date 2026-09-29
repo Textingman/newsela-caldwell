@@ -98,10 +98,10 @@ export default function PrivacyPolicy() {
               out at any time by replying STOP to any message. For help, reply
               HELP or contact us at{" "}
               <a
-                href="mailto:support@caldwellschools132.org"
+                href="mailto:support@caldwellschoolsms.com"
                 className="text-[#283796] underline"
               >
-                support@caldwellschools132.org
+                support@caldwellschoolsms.com
               </a>
               .
             </p>
@@ -144,10 +144,10 @@ export default function PrivacyPolicy() {
               You have the right to access, correct, or delete your personal
               information. To exercise these rights, please contact us at{" "}
               <a
-                href="mailto:support@caldwellschools132.org"
+                href="mailto:support@caldwellschoolsms.com"
                 className="text-[#283796] underline"
               >
-                support@caldwellschools132.org
+                support@caldwellschoolsms.com
               </a>
               .
             </p>
@@ -168,10 +168,10 @@ export default function PrivacyPolicy() {
               <p>
                 Email:{" "}
                 <a
-                  href="mailto:support@caldwellschools132.org"
+                  href="mailto:support@caldwellschoolsms.com"
                   className="text-[#283796] underline"
                 >
-                  support@caldwellschools132.org
+                  support@caldwellschoolsms.com
                 </a>
               </p>
               <p>

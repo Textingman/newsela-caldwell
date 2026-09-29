@@ -214,10 +214,10 @@ export default function Home() {
               understand I may opt out of SMS communication by replying
               &apos;STOP&apos;. Reply HELP or email{" "}
               <a
-                href="mailto:support@caldwellschools132.org"
+                href="mailto:support@caldwellschoolsms.com"
                 className="text-[#283796] underline"
               >
-                support@caldwellschools132.org
+                support@caldwellschoolsms.com
               </a>{" "}
               for help. Message and Data rates may apply. Message frequency
               varies. Carriers are not liable for delayed or undelivered
