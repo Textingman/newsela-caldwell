@@ -35,6 +35,7 @@ export default function Home() {
     setSubmitting(true);
 
     const payload = {
+      _form_name: "newsela-caldwell",
       firstName: formData.firstName,
       lastName: formData.lastName,
       email: formData.email,
